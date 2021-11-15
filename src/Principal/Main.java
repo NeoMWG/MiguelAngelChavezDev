@@ -17,7 +17,7 @@ public class Main {
                 System.out.println("\nMENU");
                 System.out.println("1. Traducir");
                 System.out.println("2. Leer Diccionario");
-                System.out.println("3. Salir\n");
+                System.out.println("3. Salir\n\n");
 
                 opcion = Integer.parseInt(leer.readLine());
                 switch(opcion){
